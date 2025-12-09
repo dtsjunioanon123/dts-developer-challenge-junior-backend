@@ -7,6 +7,10 @@ import { errorHandler } from "./middleware/errorHandler";
 
 const app = express();
 
+// CORS OPTIONS
+
+app.use(corsOptions);
+
 // PARSING MIDDLEWARE
 
 app.use(bodyParser.json());
