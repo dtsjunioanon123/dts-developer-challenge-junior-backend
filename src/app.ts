@@ -4,6 +4,7 @@ import bodyParser from "body-parser";
 
 import tasksRouter from "./routes/tasks.router";
 import { errorHandler } from "./middleware/errorHandler";
+import { corsOptions } from "./config/corsOptions";
 
 const app = express();
 
