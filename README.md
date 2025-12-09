@@ -1,6 +1,6 @@
 # HM Task Manager Backend - Development Setup
 
-This repository contains the **backend** for the HT Task Manager (HMTM) application.  
+This repository contains the **backend** for the HM Task Manager (HMTM) application.  
 Follow the steps below to set up and run the backend in your development environment.
 
 ---
